@@ -8,7 +8,7 @@
 - `check the mp4s folder for the video`
 #### for mass gifs
 - `put all the urls in the mutliple_links.txt file (seperate these with a new line)`
-- example:
+<br></br>
 <img src="links.jpg"></img>
 - `save the file`
 - `start the program`
