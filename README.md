@@ -1,5 +1,5 @@
 ### giphy to mp4
-- `converts giphy.com gifs to mp4s and downloads it.`
+- `converts giphy.com gifs to mp4 video files and downloads them.`
 
 ### instructions
 #### for one gif
