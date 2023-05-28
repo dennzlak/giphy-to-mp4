@@ -20,11 +20,6 @@
 - `press enter **or** press the download button`
 - `wait for the video to process`
 - `video should then be downloaded`
-### for multiple gifs
-- `click on 'multiple gifs' at the bottom of the input`
-- `paste the links into the large box (seperate the files with a new line)`
-- `press the download button`
-- `these will be downloaded to a zip file that you can save`
-- 
+
 #### credits
 - `all credits go to dennzlak ( me )`
