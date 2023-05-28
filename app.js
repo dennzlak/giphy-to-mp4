@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 const colors = require('colors');
 const prompt = require('prompt-sync')({signit: false});
 const https = require('https');
